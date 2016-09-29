@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [ WebDriver Suite]">
+  <test name="Testing(failed)">
+    <classes>
+      <class name="com.wavelabs.SeleniumTest.AppTest">
+        <methods>
+          <include name="url"/>
+          <include name="beforeTest"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.wavelabs.SeleniumTest.AppTest -->
+    </classes>
+  </test> <!-- Testing(failed) -->
+</suite> <!-- Failed suite [ WebDriver Suite] -->
